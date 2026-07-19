@@ -13,8 +13,11 @@ A Facebook-inspired social media platform, built with React only — no backend,
 > Add at least 4 screenshots here after running the app locally:
 
 | Feed | Create Post | Profile | Dashboard |
-|---|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ | _screenshot_ |
+<img width="886" height="465" alt="Screenshot 2026-07-19 160548" src="https://github.com/user-attachments/assets/a01b5cd3-212f-4af7-b910-727082ee8369" />
+<img width="859" height="385" alt="Screenshot 2026-07-19 150913" src="https://github.com/user-attachments/assets/6f24382b-654f-4862-85a6-45824763622f" />
+<img width="837" height="320" alt="Screenshot 2026-07-19 150524" src="https://github.com/user-attachments/assets/31c6244a-a086-4c4d-954f-5367914bdb72" />
+<img width="845" height="466" alt="Screenshot 2026-07-19 145510" src="https://github.com/user-attachments/assets/d34dcd13-7b06-43a0-8dc0-677e194a7e24" />
+
 
 ## Tech Stack
 
