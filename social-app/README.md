@@ -7,6 +7,9 @@ A Facebook-inspired social media platform, built with React only — no backend,
 🔗 **[Add your deployed Vercel/Netlify link here]**
 
 > Replace this with your live URL after deploying (e.g. `npm run build`, then deploy to Vercel or Netlify).
+>##  loom video :
+>                https://www.veed.io/view/95beafa8-fd5b-43e7-852d-913f0e3c4942?source=editor&panel=referrals
+> 
 
 ## Screenshots
 
